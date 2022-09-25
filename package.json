@@ -1,0 +1,19 @@
+{
+  "name": "remix-nft-collection",
+  "version": "1.0.0",
+  "description": "Remix NFT Collection of Mutant Ape & Bored Ape",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.0.2",
+    "form-data": "^4.0.0",
+    "minimist": "^1.2.5",
+    "web3.storage": "^3.1.0"
+  }
+}
